@@ -1,0 +1,11 @@
+# Python environment
+.venv/
+
+# Dataset files
+train.csv
+test.csv
+
+# Ignore cache and system files
+__pycache__/
+*.pyc
+.DS_Store
